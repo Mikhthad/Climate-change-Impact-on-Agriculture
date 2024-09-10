@@ -26,11 +26,11 @@ Rows = 10000
 
 Data types
  
-  Float = 9
+   Float = 9
   
-  int = 2
+   int = 2
   
-  object = 4
+   object = 4
 
 Cleaned Data . No Duplicate Values
 
